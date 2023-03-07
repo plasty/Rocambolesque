@@ -10,4 +10,6 @@ class Landingpages extends Controller
         ];
         $this->view('landingpages/index', $data);
     }
+
+
 }
