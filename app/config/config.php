@@ -6,6 +6,6 @@
 
     define('APPROOT', dirname(dirname(__FILE__)));
 
-    define('URLROOT', 'http://rocambolesque.com/');
+    define('URLROOT', 'http://rocambolesque.com');
 
     define('SITENAME', '');
