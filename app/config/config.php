@@ -8,4 +8,4 @@
 
     define('URLROOT', 'http://rocambolesque.com');
 
-    define('SITENAME', '');
+    define('SITENAME', 'rocambolesque');
